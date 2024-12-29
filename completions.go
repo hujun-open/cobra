@@ -22,7 +22,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/spf13/pflag"
+	"github.com/hujun-open/pflag"
 )
 
 const (

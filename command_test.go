@@ -24,7 +24,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/spf13/pflag"
+	"github.com/hujun-open/pflag"
 )
 
 func emptyRun(*Command, []string) {}

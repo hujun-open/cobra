@@ -22,7 +22,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/spf13/pflag"
+	"github.com/hujun-open/pflag"
 )
 
 // Annotations for Bash completion.

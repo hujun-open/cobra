@@ -74,7 +74,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/spf13/cobra"
+	"github.com/hujun-open/cobra"
 	"github.com/spf13/viper"
 )
 
@@ -167,7 +167,7 @@ package cmd
 import (
   "fmt"
 
-  "github.com/spf13/cobra"
+  "github.com/hujun-open/cobra"
 )
 
 func init() {
@@ -225,7 +225,7 @@ package cmd
 import (
   "fmt"
 
-  "github.com/spf13/cobra"
+  "github.com/hujun-open/cobra"
 )
 
 func init() {
@@ -439,7 +439,7 @@ import (
   "fmt"
   "strings"
 
-  "github.com/spf13/cobra"
+  "github.com/hujun-open/cobra"
 )
 
 func main() {
@@ -625,7 +625,7 @@ package main
 import (
   "fmt"
 
-  "github.com/spf13/cobra"
+  "github.com/hujun-open/cobra"
 )
 
 func main() {
@@ -769,7 +769,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/spf13/cobra"
+	"github.com/hujun-open/cobra"
 )
 
 func main() {

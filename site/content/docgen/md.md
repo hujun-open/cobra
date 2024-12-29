@@ -8,7 +8,7 @@ package main
 import (
 	"log"
 
-	"github.com/spf13/cobra"
+	"github.com/hujun-open/cobra"
 	"github.com/spf13/cobra/doc"
 )
 

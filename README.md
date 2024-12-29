@@ -89,7 +89,7 @@ go get -u github.com/spf13/cobra@latest
 Next, include Cobra in your application:
 
 ```go
-import "github.com/spf13/cobra"
+import "github.com/hujun-open/cobra"
 ```
 
 # Usage

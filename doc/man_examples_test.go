@@ -18,8 +18,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/spf13/cobra"
-	"github.com/spf13/cobra/doc"
+	"github.com/hujun-open/cobra"
+	"github.com/hujun-open/cobra/doc"
 )
 
 func ExampleGenManTree() {
