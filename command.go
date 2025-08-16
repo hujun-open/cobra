@@ -27,7 +27,7 @@ import (
 	"sort"
 	"strings"
 
-	flag "github.com/hujun-open/pflag"
+	flag "github.com/spf13/pflag"
 )
 
 const (

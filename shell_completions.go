@@ -15,7 +15,7 @@
 package cobra
 
 import (
-	"github.com/hujun-open/pflag"
+	"github.com/spf13/pflag"
 )
 
 // MarkFlagRequired instructs the various shell completion implementations to

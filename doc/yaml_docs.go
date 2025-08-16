@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/hujun-open/cobra"
-	"github.com/hujun-open/pflag"
+	"github.com/spf13/pflag"
 	"gopkg.in/yaml.v3"
 )
 

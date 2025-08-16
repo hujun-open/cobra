@@ -27,7 +27,7 @@ import (
 
 	"github.com/cpuguy83/go-md2man/v2/md2man"
 	"github.com/hujun-open/cobra"
-	"github.com/hujun-open/pflag"
+	"github.com/spf13/pflag"
 )
 
 // GenManTree will generate a man page for this command and all descendants
